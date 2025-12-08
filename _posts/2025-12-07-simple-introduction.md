@@ -1,9 +1,8 @@
+
 ---
-layout: post
 title: "Simple Introduction"
-date: 2025-12-07 17:30:00 -1000
-categories: [blog] # <-- Clean, simple category
-tags: [ai, images, video, initial-post] # <-- Use tags for specific labels
+date: 2025-12-08
+layout: post
 ---
 
 ## Introduction to my AI media creations
