@@ -14,6 +14,6 @@ The video was created with Wan 2.2 Image to Video.  I use the Rapid AIO version 
 Here’s my video:
 
 <video width="640" height="360" controls>
-  <source src="{{ site.baseurl }}/assets/pace_emperor_upscaled-video.mp4" type="video/mp4">
+  <source src="{{ site.baseurl }}/assets/space_emperor_upscaled-video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
