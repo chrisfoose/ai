@@ -9,3 +9,5 @@ description: A gallery of AI-generated images and video experiments.
 # 3. Enable the Jekyll Theme
 theme: minima 
 # You can replace 'minima' with any theme supported by GitHub Pages
+
+permalink: /:year/:month/:day/:title.html
