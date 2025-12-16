@@ -11,7 +11,6 @@ However, it fails to grasp the spirit of the prompt.  My prompt was, "Effeminate
 
 For some reason the Emperor is entertaining the crowd causing them to laugh rather than being ridiculed.
 
-
 <video width="640" height="640" controls>
   <source src="{{ site.baseurl }}/assets/mocked_laughing_veo.mp4" type="video/mp4">
   Your browser does not support the video tag.
