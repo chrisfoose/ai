@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MMAudio via replicate"
-date: 2025-12-07 17:30:00 -1000
+date: 2025-12-16 17:30:00 -1000
 categories: [blog] # <-- Clean, simple category
 tags: [ai, images, video, initial-post] # <-- Use tags for specific labels
 ---
