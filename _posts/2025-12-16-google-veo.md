@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Google Veo Doesn't Understand"
-date: 2025-12-16 17:30:00 -10:00
+date: 2025-12-16 17:30:00 -4:00
 categories: [blog] # <-- Clean, simple category
 tags: [ai, images, video, initial-post] # <-- Use tags for specific labels
 ---
