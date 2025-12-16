@@ -1,3 +1,4 @@
+---
 layout: post
 title: "Google Veo Doesn't Understand"
 date: 2025-12-16 17:30:00 -1000
